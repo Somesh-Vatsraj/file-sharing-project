@@ -1,0 +1,1 @@
+document.querySelectorAll('.actions-mini form').forEach(f=>f.addEventListener('submit',()=>{}));
