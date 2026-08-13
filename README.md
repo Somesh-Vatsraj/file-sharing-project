@@ -36,7 +36,7 @@ Then insert it:
 
 ```sql
 INSERT INTO admins (username, email, password)
-VALUES ('admin', 'admin@example.com', 'PASTE_HASH_HERE');
+VALUES ('admin', 'admin@example.com', 'admin');
 ```
 
 Delete the temporary script after use.
